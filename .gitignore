@@ -157,3 +157,5 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/python,virtualenv
 
 .idea
+
+ffmpeg-4.3.1-2020-10-01-full_build
